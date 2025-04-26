@@ -32,6 +32,7 @@ The code structure is based on  [Advanced_XLight](https://github.com/AdvancedAI-
 `python3.8`, `tensorflow=2.4`, `torch=1.12.1`, `cityflow`, `pandas`, `numpy`
 
 ```bash
+conda activate your_env_name
 pip install -r requirements.txt
 ```
 [`cityflow`](https://github.com/cityflow-project/CityFlow.git) needs a linux environment.
