@@ -84,7 +84,7 @@ class Updater:
             for i in range(self.dic_traffic_env_conf['NUM_INTERSECTIONS']):
                 sample_set = self.load_sample_with_forget(i)
                 self.agents[i].prepare_Xs_Y(sample_set)
-        elif self.dic_traffic_env_conf['MODEL_NAME'] in ["EfficientColight", "AdvancedColight"]:
+        elif self.dic_traffic_env_conf['MODEL_NAME'] in ["EfficientColight", "AdvancedColight", "HyperbolicLight"]:
             samples_list = []
             for i in range(self.dic_traffic_env_conf['NUM_INTERSECTIONS']):
                 sample_set = self.load_sample_with_forget(i)
