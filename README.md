@@ -1,5 +1,7 @@
 # Traffic Signal Control Based on Reinforcement Learning
 
+This repository contains the code and documentation for a research project focused on Reinforcement Learning (RL)-based Traffic Signal Control. The objective is to optimize traffic light phases in urban road networks using modern deep reinforcement learning algorithms, improving traffic efficiency and reducing vehicle delays and congestion. It includes the papers published by our research group related to this project.
+
 ## Paper
 
 - Efficient Pressure: Improving efficiency for signalized intersections (arxiv-2021) [Paper Link](https://arxiv.org/abs/2112.02336)
