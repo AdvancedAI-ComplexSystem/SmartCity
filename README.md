@@ -1,4 +1,4 @@
-# Reinforcement Learning Based Traffic Signal Control
+# Traffic Signal Control Based on Reinforcement Learning
 
 ## Paper
 
