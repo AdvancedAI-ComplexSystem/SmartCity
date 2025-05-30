@@ -43,6 +43,6 @@ It also includes the **research papers published by our group**, showcasing our 
    [📄 Paper Link](https://icml.cc/virtual/2025/poster/44919)  
    *Keywords: diffusion models, robustness, noisy observation handling*
 
-6. **RobustLight: OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections** *(Under Review)*
-   *a real-time framework to prevent urban traffic gridlock by optimizing traffic signals and detecting overflow using RL.*
+6. **RobustLight: OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections** *(Under Review)*  
+   *a real-time framework to prevent urban traffic gridlock by optimizing traffic signals and detecting overflow using RL.*  
    *Keywords: Traffic Signal Control, Reinforcement Learning, Overflow Control, Real-World Deployment*
