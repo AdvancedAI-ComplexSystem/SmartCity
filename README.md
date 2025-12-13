@@ -42,3 +42,8 @@ It also includes the **research papers published by our group**, showcasing our 
    *ICML 2025*  
    [📄 Paper Link](https://icml.cc/virtual/2025/poster/44919)  
    *Keywords: diffusion models, robustness, noisy observation handling*
+
+6. **CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning**  
+   *KDD 2026*  
+   [📄 Paper Link](https://www.arxiv.org/pdf/2512.09368)  
+   *Keywords: traffic signal control, reinforcement learning, counterfactual learning*   
