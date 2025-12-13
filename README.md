@@ -45,6 +45,6 @@ It also includes the **research papers published by our group**, showcasing our 
 
 6. **CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning**  
    *KDD 2026*  
-   [📄 Paper Link](https://www.arxiv.org/pdf/2512.09368)
-   [Code Link](https://github.com/MJLee00/CFLight-Enhancing-Safety-with-Traffic-Signal-Control-through-Counterfactual-Learning)
+   [📄 Paper Link](https://www.arxiv.org/pdf/2512.09368) [📄Code Link](https://github.com/MJLee00/CFLight-Enhancing-Safety-with-Traffic-Signal-Control-through-Counterfactual-Learning)
+   
    *Keywords: traffic signal control, reinforcement learning, counterfactual learning*   
