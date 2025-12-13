@@ -40,7 +40,7 @@ It also includes the **research papers published by our group**, showcasing our 
 
 5. **RobustLight: Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control**  
    *ICML 2025*  
-   [📄 Paper Link](https://icml.cc/virtual/2025/poster/44919)  
+   [📄 Paper Link](https://icml.cc/virtual/2025/poster/44919) [📄Code Link](https://github.com/MJLee00/RobustLight)
    *Keywords: diffusion models, robustness, noisy observation handling*
 
 6. **CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning**  
