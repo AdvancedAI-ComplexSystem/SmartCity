@@ -35,7 +35,7 @@ It also includes the **research papers published by our group**, showcasing our 
 
 4. **FuzzyLight: A Robust Two-Stage Fuzzy Approach for Traffic Signal Control That Works in Real Cities**  
    *KDD 2025*  
-   [📄 Paper Link](https://dl.acm.org/doi/10.1145/3690624.3709393)  
+   [📄 Paper Link](https://dl.acm.org/doi/10.1145/3690624.3709393) [📄Code Link](https://github.com/MJLee00/FuzzyLight_official) 
    *Keywords: fuzzy logic, hierarchical control, real-world deployment*
 
 5. **RobustLight: Improving Robustness via Diffusion Reinforcement Learning for Traffic Signal Control**  
